@@ -11,4 +11,4 @@ RUN mv apache-tomcat-9.0.88 tomcat
 COPY target/welcomeapp.war /opt/tomcat/webapps/
 
 EXPOSE 8080
-CMD["/opt/tomcat/bin/catalina.sh", "run"]
+CMD ["/opt/tomcat/bin/catalina.sh", "run"]
