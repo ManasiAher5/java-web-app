@@ -4,6 +4,6 @@
 	</head>
 	<body>
 		<h2 style="background: blue;text-align: center;color: white;">AVD Group</h2>
-		<p>Wecome to AVD</p>
+		<p>Welcome to AVD2</p>
 	</body>
 </html>
